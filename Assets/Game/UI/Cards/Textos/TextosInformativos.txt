@@ -1,0 +1,11 @@
+Hongo-Calor:
+the fungus termatus is a heat-emitting fungus, thanks to nuclear chemical processes it will allow you to recharge your thermo cells, get close to them to receive heat and recharge your thermal levels.
+
+Hongo-Oxigeno:
+This phylogenic fungus spores produce oxygen from the earth and will help you to maintain your oxygen levels if you approach them, they are an oasis in this desertic planet.
+
+Tanques de Oxigeno:
+inside the base there oxygen tanks that you can use to refuel, but remember that they are limited uses (8 in total), be careful and only use them in case of emergency
+
+Nave:
+the xr-207 has a reserve oxygen tank for special cases, use it if you have the urge to fill your oxygen reserves, but be careful, it is for single use
