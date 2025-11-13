@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6731365283947202086}
   - component: {fileID: 1835700716787489849}
   - component: {fileID: 8901142091020823602}
-  - component: {fileID: 1909382012884616753}
+  - component: {fileID: 7359586218509971124}
   m_Layer: 0
   m_Name: SueloNave
   m_TagString: Untagged
@@ -29,7 +29,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
   m_LocalPosition: {x: 126.182, y: 5.06, z: 214.848}
-  m_LocalScale: {x: 1, y: 1, z: -0.1}
+  m_LocalScale: {x: 1, y: 1, z: 0.1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -90,7 +90,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &1909382012884616753
+--- !u!65 &7359586218509971124
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -109,5 +109,5 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Center: {x: 0, y: 0, z: -0.00000047683716}
